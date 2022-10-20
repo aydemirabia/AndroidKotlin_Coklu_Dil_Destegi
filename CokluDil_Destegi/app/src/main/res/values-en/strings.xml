@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CokluDil_Destegi</string>
+    <string name="kullaniciAdi">Username</string>
+    <string name="sifre">Password</string>
+    <string name="buttonGiris">LOGIN</string>
+    <string name="yardim">Help?</string>
+</resources>
